@@ -1,0 +1,8 @@
+*.pyc
+.idea
+*.jar
+*.java
+*.txt
+celerybeat*
+*.json
+*.pid
