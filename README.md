@@ -126,5 +126,8 @@ Every time you need a nonrel model's field with a form's field attached you have
 
 # Example #
 
-Coming soon!
+For an example you can see my blog:
+
+http://blog.itsmurfs.it/entry-detail/54462573fe5faf6e522e0f08/
+
 
